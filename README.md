@@ -27,7 +27,7 @@
 
 ### Project: Rent Cost Analysis Across U.S. Regions
 
-This project investigates which factors most strongly influence rent prices across the U.S., using a multi-level data analysis approach. 
+#### This project investigates which factors most strongly influence rent prices across the U.S., using a multi-level data analysis approach. 
 ---
 
 ### 🔍 Analytical Framework
