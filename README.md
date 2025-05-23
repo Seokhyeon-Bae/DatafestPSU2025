@@ -30,7 +30,7 @@
 #### This project investigates which factors most strongly influence rent prices across the U.S., using a multi-level data analysis approach. 
 ---
 
-### 🔍 Analytical Framework
+### Analytical Framework
 
 We analyzed rent determinants at three spatial scales:
 
